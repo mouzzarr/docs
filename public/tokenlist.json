@@ -439,6 +439,14 @@
       "symbol": "wUSDR",
       "decimals": 9,
       "logoURI": "https://docs.velodrome.finance/tokens/wUSDR.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xfDeFFc7Ad816BF7867C642dF7eBC2CC5554ec265",
+      "name": "Beefy Velo",
+      "symbol": "BeVELO",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/beVELO.svg"
     }
   ]
 }
