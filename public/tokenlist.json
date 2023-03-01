@@ -447,6 +447,14 @@
       "symbol": "BeVELO",
       "decimals": 18,
       "logoURI": "https://docs.velodrome.finance/tokens/beVELO.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xcdb4bb51801a1f399d4402c61bc098a72c382e65",
+      "name": "OPX",
+      "symbol": "OPX",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/OPX.svg"
     }
   ]
 }
