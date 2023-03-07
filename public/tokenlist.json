@@ -455,6 +455,14 @@
       "symbol": "OPX",
       "decimals": 18,
       "logoURI": "https://docs.velodrome.finance/tokens/OPX.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x15e770B95Edd73fD96b02EcE0266247D50895E76",
+      "name": "Jarvis Reward Token",
+      "symbol": "JRT",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/JRT.svg"
     }
   ]
 }
