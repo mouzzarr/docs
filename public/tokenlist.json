@@ -471,6 +471,14 @@
       "symbol": "MMY",
       "decimals": 18,
       "logoURI": "https://docs.velodrome.finance/tokens/MMY.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x2C403D12181BEA77ba642496b9e74d3689C5b7DE",
+      "name": "Cronus Finance",
+      "symbol": "CRN",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/CRN.jpg"
     }
   ]
 }
