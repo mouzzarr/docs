@@ -471,6 +471,14 @@
       "symbol": "MMY",
       "decimals": 18,
       "logoURI": "https://docs.velodrome.finance/tokens/MMY.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x8b21e9b7daf2c4325bf3d18c1beb79a347fe902a",
+      "name": "Collab.Land Token",
+      "symbol": "COLLAB",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/COLLAB.svg"
     }
   ]
 }
