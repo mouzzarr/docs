@@ -479,6 +479,14 @@
       "symbol": "COLLAB",
       "decimals": 18,
       "logoURI": "https://docs.velodrome.finance/tokens/COLLAB.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x970d50d09f3a656b43e11b0d45241a84e3a6e011",
+      "name": "DAI+",
+      "symbol": "DAI+",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/DAIplus.png"
     }
   ]
 }
