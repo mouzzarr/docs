@@ -210,7 +210,7 @@
       "name": "Oath Token",
       "symbol": "OATH",
       "decimals": 18,
-      "logoURI": "https://docs.velodrome.finance/tokens/OATH.png"
+      "logoURI": "https://docs.velodrome.finance/tokens/OATH.svg"
     },
     {
       "chainId": 10,
