@@ -487,6 +487,14 @@
       "symbol": "DAI+",
       "decimals": 18,
       "logoURI": "https://docs.velodrome.finance/tokens/DAIplus.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x7113370218f31764C1B6353BDF6004d86fF6B9cc",
+      "name": "Decentralized USD",
+      "symbol": "USDD",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/USDD.svg"
     }
   ]
 }
