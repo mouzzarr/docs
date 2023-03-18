@@ -82,7 +82,9 @@
       "name": "renBTC",
       "symbol": "RENBTC",
       "decimals": 8,
-      "logoURI": "https://docs.velodrome.finance/tokens/renBTC.svg"
+      "logoURI": "https://docs.velodrome.finance/tokens/renBTC.svg",
+      "nativeChainAddress": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
+      "nativeChainId": 1
     },
     {
       "chainId": 10,
