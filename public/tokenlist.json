@@ -505,6 +505,14 @@
       "symbol": "GRAIN",
       "decimals": 18,
       "logoURI": "https://docs.velodrome.finance/tokens/GRAIN.svg"
+    },
+    {
+      "chainId": 18,
+      "address": "0xc5b001DC33727F8F26880B184090D3E252470D45",
+      "name": "Ethos Reserve Note",
+      "symbol": "ERN",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/ERN.svg"
     }
   ]
 }
