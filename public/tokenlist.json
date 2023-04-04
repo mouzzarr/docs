@@ -497,6 +497,14 @@
       "symbol": "USDD",
       "decimals": 18,
       "logoURI": "https://docs.velodrome.finance/tokens/USDD.svg"
+    },
+    {
+      "chainId": 18,
+      "address": "0xfD389Dc9533717239856190F42475d3f263a270d",
+      "name": "Granary Token",
+      "symbol": "GRAIN",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/GRAIN.svg"
     }
   ]
 }
