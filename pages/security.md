@@ -78,6 +78,8 @@ There were no claims for any of the $200,000 rewards ([on their Github](https://
 | MerkleClaim        | [0x00D59BC35174C3b250Dd92a363495d38C8777a49](https://optimistic.etherscan.io/address/0x00d59bc35174c3b250dd92a363495d38c8777a49#code) | Optimism |
 | RedemptionSender   | [0x9809fB94eED086F9529df00d6f125Bf25Ee84A93](https://ftmscan.com/address/0x9809fB94eED086F9529df00d6f125Bf25Ee84A93#code) | Fantom |
 
+All contracts are immutable. The latest public testnet deployment can be found [here](https://docs.velodrome.finance/testnet.json).
+
 ## Tokenlist
 
 In addition to the [official Optimism tokens
