@@ -513,6 +513,14 @@
       "symbol": "ERN",
       "decimals": 18,
       "logoURI": "https://docs.velodrome.finance/tokens/ERN.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x929B939f8524c3Be977af57A4A0aD3fb1E374b50",
+      "name": "Meta",
+      "symbol": "MTA",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/MTA.svg"
     }
   ]
 }
