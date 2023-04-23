@@ -521,6 +521,22 @@
       "symbol": "MTA",
       "decimals": 18,
       "logoURI": "https://docs.velodrome.finance/tokens/MTA.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x6c2f7b6110a37b3B0fbdd811876be368df02E8B0",
+      "name": "StaFi rETH",
+      "symbol": "rETH",
+      "decimals": 18,
+      "logouri": "https://assets.smold.app/api/token/10/0x6c2f7b6110a37b3b0fbdd811876be368df02e8b0/logo.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xD8737CA46aa6285dE7B8777a8e3db232911baD41",
+      "name": "StaFi Token",
+      "symbol": "FIS",
+      "decimals": 18,
+      "logouri": "https://assets.smold.app/api/token/10/0xd8737ca46aa6285de7b8777a8e3db232911bad41/logo.svg"
     }
   ]
 }
