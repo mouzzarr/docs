@@ -528,7 +528,7 @@
       "name": "StaFi rETH",
       "symbol": "rETH",
       "decimals": 18,
-      "logouri": "https://docs.velodrome.finance/tokens/stafiRETH.svg"
+      "logoURI": "https://docs.velodrome.finance/tokens/stafiRETH.svg"
     },
     {
       "chainId": 10,
@@ -536,7 +536,7 @@
       "name": "StaFi Token",
       "symbol": "FIS",
       "decimals": 18,
-      "logouri": "https://docs.velodrome.finance/tokens/FIS.svg"
+      "logoURI": "https://docs.velodrome.finance/tokens/FIS.svg"
     },
     {
       "chainId": 10,
@@ -544,7 +544,7 @@
       "name": "Essence Finance USD",
       "symbol": "CHI",
       "decimals": 18,
-      "logouri": "https://docs.velodrome.finance/tokens/CHI.svg"
+      "logoURI": "https://docs.velodrome.finance/tokens/CHI.svg"
     }
   ]
 }
