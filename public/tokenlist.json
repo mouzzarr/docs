@@ -545,6 +545,14 @@
       "symbol": "CHI",
       "decimals": 18,
       "logoURI": "https://docs.velodrome.finance/tokens/CHI.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x12ff4a259e14D4DCd239C447D23C9b00F7781d8F",
+      "name": "PEPE Optimism",
+      "symbol": "PEPE",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/PEPE.svg"
     }
   ]
 }
