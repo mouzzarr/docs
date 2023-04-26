@@ -553,6 +553,14 @@
       "symbol": "PEPE",
       "decimals": 18,
       "logoURI": "https://docs.velodrome.finance/tokens/PEPE.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0x296f55f8fb28e498b858d0bcda06d955b2cb3f97",
+      "name": "StargateToken",
+      "symbol": "STG",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/STG.svg"
     }
   ]
 }
