@@ -585,6 +585,14 @@
       "symbol": "wOptiDoge",
       "decimals": 18,
       "logoURI": "https://assets.smold.app/api/token/10/0xC26921B5b9ee80773774d36C84328ccb22c3a819/logo.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0xa50B23cDfB2eC7c590e84f403256f67cE6dffB84",
+      "name": "BlueNorva Token",
+      "symbol": "BLU",
+      "decimals": 18,
+      "logoURI": "https://assets.smold.app/api/token/10/0xa50b23cdfb2ec7c590e84f403256f67ce6dffb84/logo.svg"
     }
   ]
 }
