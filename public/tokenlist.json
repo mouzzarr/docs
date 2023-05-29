@@ -593,6 +593,14 @@
       "symbol": "BLU",
       "decimals": 18,
       "logoURI": "https://assets.smold.app/api/token/10/0xa50b23cdfb2ec7c590e84f403256f67ce6dffb84/logo.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x9a2e53158e12bc09270af10c16a466cb2b5d7836",
+      "name": "Metronome DAO",
+      "symbol": "MET",
+      "decimals": 18,
+      "logoURI": "https://assets.smold.app/api/token/10/0x9a2e53158e12bc09270af10c16a466cb2b5d7836/logo.svg"
     }
   ]
 }
