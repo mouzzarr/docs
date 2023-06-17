@@ -609,6 +609,14 @@
       "symbol": "tBTC",
       "decimals": 18,
       "logoURI": "https://docs.velodrome.finance/tokens/TBTC.svg"
+    },
+    {
+      "chainId": 10,
+      "address": "0x1610e3c85dd44af31ed7f33a63642012dca0c5a5",
+      "name": "Metronome Synth ETH",
+      "symbol": "msETH",
+      "decimals": 18,
+      "logoURI": "https://docs.velodrome.finance/tokens/msETH.png"
     }
   ]
 }
