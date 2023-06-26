@@ -617,6 +617,14 @@
       "symbol": "msETH",
       "decimals": 18,
       "logoURI": "https://docs.velodrome.finance/tokens/msETH.png"
+    },
+    {
+      "chainId": 10,
+      "address": "0xB25EA095997F5bBaa6cEa962c4fBf3bfc3C09776",
+      "name": "Promethios",
+      "symbol": "FIRE",
+      "decimals": 9,
+      "logoURI": "https://docs.velodrome.finance/tokens/FIRE.png"
     }
   ]
 }
